@@ -1,4 +1,0 @@
----
-pacemaker_package: pcs
-pacemaker_user: hacluster
-installed: false
